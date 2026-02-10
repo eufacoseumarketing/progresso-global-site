@@ -156,14 +156,14 @@ const educationLevels: EducationLevel[] = [{
     items: ["Trabalho em Grupo: envolvendo múltiplos temas, gêneros textuais e suportes de comunicação", "Trabalho de Pesquisa Individual: desenvolvimento de pesquisa escrita e apresentação oral a partir de um tema de interesse e escolha do estudante, alinhado aos Objetivos de Desenvolvimento Sustentável da ONU", "Avaliações objetivas - Simulado: envolvendo todas as áreas de conhecimento, preparam os estudantes para o modelo das provas de 1ª fase dos principais vestibulares e ENEM", "Avaliações dissertativas: por disciplina, preparam os estudantes para o modelo das provas de 2ª fase dos principais vestibulares", "Produção de Texto: escrita semanal em sala de aula, com modelos de propostas dos principais vestibulares"]
   },
   comunicacao: ["Aplicativo de envio de comunicados institucionais semanais e troca de mensagens entre família e escola, garantindo rapidez no contato e fortalecendo a proximidade", "Reuniões bimestrais: agendamento individual da professora com as famílias para acompanhamento do desenvolvimento", "Equipe pedagógica específica do segmento, que cuida da conexão família-escola, conhecendo em profundidade cada criança e seus familiares"],
-  extracurriculares: ["Violão", "Vôlei", "Futsal", "Handebol", "Itinerários de Obras Literárias", "Laboratório de Química", "Biologia Marinha", "Cinema"],
+  extracurriculares: ["Violão", "Vôlei", "Futsal", "Handebol"],
   schedule: {
     manha: "7h15 às 13h",
     tarde: "Conforme grade específica de cada turma"
   },
   curriculum: {
     all: ["Gramática", "Literatura", "Redação", "Matemática", "Física", "Química", "Biologia", "Sociologia", "Filosofia", "História", "Geografia", "Educação Física", "Inglês"],
-    series12: ["Educação Financeira", "Interpretação de Texto"]
+    series12: ["Educação Financeira", "Interpretação de Texto", "Itinerários de Obras Literárias", "Laboratório de Química", "Biologia Marinha", "Cinema"]
   }
 }, {
   id: "ib",
