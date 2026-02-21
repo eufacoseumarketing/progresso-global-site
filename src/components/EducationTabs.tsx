@@ -93,7 +93,7 @@ const educationLevels: EducationLevel[] = [{
   },
   headline: "Consolidando a alfabetização e múltiplas linguagens",
   description: ["Ao longo dos Anos Iniciais, nossos estudantes consolidam o processo de alfabetização para que possam ler, interpretar e se comunicar por meio de linguagens diversas. A formação socioemocional e momentos ricos de brincadeiras e interações permanecem na rotina, promovendo a convivência respeitosa, gentil e ética."],
-  highlights: ["Material didático em Português e Inglês", "Projetos Literários em Inglês e Português, com atividades que envolvem todas as áreas do conhecimento, desenvolvidos a partir de um título por bimestre, ampliando a formação cultural para além da literária", "Programa Semente: formação socioemocional estruturada a partir de propostas, situações, reflexões e proposições adequadas a cada faixa etária", "Cultura Maker: projetos que desenvolvem a criatividade e a resolução de problemas, incentivando a postura propositiva e o trabalho em equipe dentro da cultura maker"],
+  highlights: ["Material didático em Português e Inglês", "Projetos Literários em Inglês e Português, com atividades que envolvem todas as áreas do conhecimento, desenvolvidos a partir de um título por bimestre, ampliando a formação cultural para além da literária", "Programa Semente: formação socioemocional estruturada a partir de propostas, situações, reflexões e proposições adequadas a cada faixa etária", "Pensamento Maker: projetos que desenvolvem a criatividade e a resolução de problemas, incentivando a postura propositiva e o trabalho em equipe dentro da cultura maker"],
   extras: ["Progresso Completo: contraturno escolar com atividades lúdicas, esportivas, culturais e tarefas de casa", "Extracurricular: modalidades esportivas e culturais que adensam a formação regular", "Saídas pedagógicas: vivências externas que promovem a interlocução e o aprimoramento dos conhecimentos escolares com o mundo"],
   avaliacao: {
     intro: "A partir das observações diárias das crianças e das atividades produzidas por elas, as professoras realizam o registro de desenvolvimento do aluno em um documento individual, apresentado bimestralmente às famílias.",
@@ -102,7 +102,7 @@ const educationLevels: EducationLevel[] = [{
     extra: "Os alunos realizam também, anualmente, uma avaliação de proficiência da Língua Inglesa."
   },
   comunicacao: ["Aplicativo de envio de comunicados institucionais semanais e troca de mensagens entre família e escola, garantindo rapidez no contato e fortalecendo a proximidade", "Reuniões bimestrais: agendamento individual da professora com as famílias para acompanhamento do desenvolvimento", "Equipe pedagógica específica do segmento, que cuida da conexão família-escola, conhecendo em profundidade cada criança e seus familiares"],
-  extracurriculares: ["Ballet Baby Class"],
+  extracurriculares: ["Ballet Baby Class", "Coral", "Futsal", "Ginástica Artística", "Violão"],
   schedule: {
     manha: "7h10 às 12h20",
     tarde: "13h10 às 18h20"

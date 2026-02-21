@@ -53,13 +53,6 @@ export const Header = () => {
             ))}
           </nav>
 
-          {/* Language Selector */}
-          <div className="hidden md:flex items-center gap-4">
-            <a href="#" className="flex items-center gap-2 text-sm font-medium text-foreground/80 hover:text-primary transition-colors">
-              <img src={flagUS} alt="English" className="w-6 h-4 object-cover rounded-sm" />
-              <span>English</span>
-            </a>
-          </div>
 
           {/* Mobile Menu Button */}
           <button
@@ -94,10 +87,6 @@ export const Header = () => {
                   {item.label}
                 </a>
               ))}
-              <a href="#" className="flex items-center gap-2 text-base font-medium text-foreground/80 hover:text-primary transition-colors mt-4 py-2">
-                <img src={flagUS} alt="English" className="w-6 h-4 object-cover rounded-sm" />
-                <span>English</span>
-              </a>
             </nav>
           </motion.div>
         )}
